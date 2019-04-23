@@ -1,0 +1,4 @@
+Pregunta 1:
+    Construiria dos modulos, uno para los test y el otro para la funcion que convierte
+    el numero decimal a hexadecimal:En caso de que se utilice una interfaz utilizaria 
+    dos modulos mas ,uno que testee la interfaz y otro que seria la misma interfaz.
